@@ -67,13 +67,5 @@ var char = ['ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%
 ### Questão 05
 Escreva um algoritmo para verificar se uma roleta de cassino é viciada. A roleta tem 37 números (de 0 a 36), sendo que o número 0 é verde e os demais são divididos igualmente entre vermelho e preto (impares são vermelho, pares são pretos). O programa deve contar quantas vezes cada cor (verde, vermelho, preto) foi gerada e verificar se alguma cor tem uma frequência maior que 40%. Se houver, o programa deve indicar que a roleta pode estar viciada.
 
----
-
-### Questão 06
-Escreva um programa que permita o cadastro de N produtos. Para cada produto, solicite o nome e o preço. Armazene os dados em um vetor de objetos. Ao final, o programa deve:
-  - Imprimir o nome e o preço de cada produto.
-  - Calcular e exibir o preço médio dos produtos.
-  - Calcular e exibir o preço total
-
----
+---      
 
